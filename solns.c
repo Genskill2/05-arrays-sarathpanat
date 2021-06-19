@@ -30,7 +30,7 @@ int max(int a[],int num){
 }
 
 int min(int a[],int num){
-  int i=0
+  int i=0;
   int min=a[i];
   for(i;i<num;i++){
     if(a[i]<min)
